@@ -5,9 +5,9 @@ ls
 # 2 - What is the command for changing directories?
 cd
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-
+cd ~
 # 4 - What is a quick way to create a new folder?
-touch
+mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 an empty folder would do nothing but give you a new line to type another command. A folder with files in it will list everything
 # 6 - What is a quick way to create a new file?
@@ -17,6 +17,6 @@ git version 2.30.1 (Apple Git-130)
 # 8 - Why would you run the command 'git status'?
 to see if a file is updated and ready to be pushed
 # 9 - What does the command 'git add .' do?
-tell it that you want to include updates in a particular file
+tells it that you want to include updates in a particular file
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin master
